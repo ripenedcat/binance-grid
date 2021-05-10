@@ -23,4 +23,5 @@
 4. 修改/start.py中的max_steps = 3可以修改定投追跌次数
 5. bat文件中修改python start.py XRPDOWNUSDT 最后的XRPDOWNUSDT位自己想要交易的交易对
 6. 修改第五步后确保/data目录下存在data_XRPDOWNUSDT.json文件，文件名与币种对应
-7. 其他参考原项目说明
+7. 如果没有科学上网条件把/app/BinanceAPI.py 中的flag = "global" 改成非"global"
+8. 其他参考原项目说明
