@@ -1,0 +1,16 @@
+{
+    "runBet": {
+        "next_buy_price": 0.041238,
+        "grid_sell_price": 0.042922,
+        "step": 4
+    },
+    "config": {
+        "profit_ratio": 3,
+        "double_throw_ratio": 3,
+        "cointype": "XRPDOWNUSDT",
+        "quantity": [
+            1480,
+            1080
+        ]
+    }
+}
