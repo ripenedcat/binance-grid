@@ -5,6 +5,7 @@
 ### 介绍
 参考项目地址： https://github.com/hengxuZ/spot-trend-grid
 
+### 相对原项目的改动
 去掉了趋势判断，因为一直报错
 
 修改成bat传参模式，可以运行多个交易对
