@@ -4,10 +4,15 @@
 
 ### 介绍
 参考项目地址： https://github.com/hengxuZ/spot-trend-grid
+
 去掉了趋势判断，因为一直报错
+
 修改成bat传参模式，可以运行多个交易对
+
 去掉了dingding提醒改用微信提醒
+
 加了logger
+
 增加定投追跌次数限制，默认3次，可调
 
 ### 使用方法
